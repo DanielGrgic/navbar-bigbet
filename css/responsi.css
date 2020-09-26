@@ -1,0 +1,206 @@
+@media screen and (max-width:1200px)
+{
+.section-new .new-2 ul li a { padding: 22px 8px 22px;   font-size: 10px;}
+.terms-cont .dices-title{font-size: 17px}
+p{font-size:13px;}
+.section-footer-menu ul li a{padding: 0 26px;}
+.slide-bar .carousel-item img{height: 500px;}	
+}
+@media screen and (max-width:1000px)
+{
+.sidenav li a{margin: 7px 0;}
+.section-new .new-2 ul li a {padding: 20px 15px 20px;}
+.section-search{width: 23%; padding: 12px 0;}
+.section-new .new-2 ul li a {padding: 20px 6px 20px; font-size: 8px;}
+.terms-cont .dices-title {font-size: 12px;}
+.section-footer-menu ul li a {padding: 0 10px;}	
+.sidenav li a{padding: 0 5px; font-size: 9px;}
+.catego-select{width: 140px;}
+.play_for_real .btn{width: 140px;}
+}
+@media screen and (max-width:767px)
+{
+.sidenav {height:74%;width: 0;position: fixed;z-index: 99999;top: 66px;left: 0;background-color: #333333;overflow-x: hidden;transition: 0.5s;padding-top: 0;}
+.sidenav li a {color: #858585;font-size: 18px;margin: 0;float: left;line-height: 50px;width: 100%;padding: 0 15px;border-left: 4px solid #333;font-weight: 400;}
+
+.sidenav li.active a{color:#cca339;border-color:#cca339;}
+.sidenav li:hover a{color:#cca339;border-color:#cca339;}
+.button-all {border-radius: 0;width: 100%;}
+.sidenav a:hover {color: #f1f1f1;}
+.sidenav .closebtn {position: absolute;top: 0; right: 25px; font-size: 36px; margin-left: 50px;}
+.menuclose {
+    width: 64px;
+    border-left: 1px solid #fff;
+    font-size: 30px;
+    color: #333333;
+    text-align: center;
+    padding: 0;
+    float: right;
+    margin: 4px 0 0;
+    border-radius: 0;
+    position: absolute;
+    z-index: 9;
+    top: 0;
+    right: 10px;
+    cursor: pointer;
+    line-height: 40px;
+}
+.menuclose1 {
+    width: 64px;
+    border-left: 1px solid #fff;
+    font-size: 30px;
+    color: #333333;
+    text-align: center;
+    padding: 0;
+    float: right;
+    margin: 4px 0 0;
+    border-radius: 0;
+    position: absolute;
+    z-index: 9;
+    top: 0;
+    right: 10px;
+    cursor: pointer;
+    line-height: 40px;
+}
+.sidenav li {float: left;
+    width: 100%;
+    border-bottom: 1px solid #3b3b3b;
+    padding: 0px 0;}
+.sidenav-menu {width: auto;}
+.navbar-toggler {
+    width: 64px;
+    border-left: 1px solid #fff;
+    font-size: 30px;
+    color: #333333;
+    text-align: center;
+    padding: 4px 0;
+    float: right;
+    margin:4px 0 0;
+    border-radius: 0;
+    position: absolute;
+    z-index: 9;
+    top: 0;
+    right: 10px;
+    cursor: pointer;
+}
+
+.loggedsignup {width: 100%; float: left;position: fixed;bottom: 0;z-index: 9;background: #acacac;}
+.loggedsignup ul li{width:33.333333333333%; float:left;}
+.loggedsignup ul li a{width:100%; float:left; text-align:center; color:#ffffff; font-size:14px; text-transform:uppercase; line-height: 50px;}
+
+
+.menuclose .fa-times{transform: rotate(0deg);}
+.menuclose1 .fa-times{transform: rotate(0deg);}
+.login-signup {width: 100%; float: left;position: fixed;bottom: 0;z-index: 9;background: #acacac;}
+.login-signup ul li{width:50%; float:left;}
+.login-signup ul li a{width:100%; float:left; text-align:center; color:#ffffff; font-size:14px; text-transform:uppercase; line-height: 50px;}
+.logo.float-left.my-2 {width: 115px; margin: auto; display: table;float: none !important;}
+.navbar-nav li img{display:none;}
+.follow-us {float: left; padding: 10px 15px 10px;}
+.follow-us p{font-size: 32px; border-left: 4px solid #333;font-weight: 600; text-transform: uppercase; color:#858585;}
+.follow-us a {font-size: 36px;color: #fff;margin: 0 20px;}
+.follow-us  i.fab.fa-twitter{color:#00acee;}
+.carousel-caption{top:6%;}
+footer{background-color:#333333; margin-bottom: 50px;}
+.section-footer-bottom{border:none;}
+.section-footer-bottom .button-18{float: left;margin: 11px 20px;}
+.aware-logo{width: auto;display: table;margin: 0 auto 20px;}
+.footer-next-text {border-left: none;}
+.footer-next-text p {color: #f3f2f2;margin: 0;padding: 10px 0;font-size: 11px;text-align: center;}
+.section-footer-menu ul li {float: none;display: inline-block;color: #fff;}
+.section-footer-menu ul {color: #fff;text-align: center; margin: 20px 0 0;}
+.section-footer-menu{border:none; padding-bottom: 0;}
+.section-footer-menu ul li a {padding: 0 10px;font-size: 12px; color: #cca339;}
+.container {max-width: 100%;}
+.games-box {width: 33%;float: left;margin-bottom: 15px;padding: 0 15px 0 0;}
+.pagination{display:none;}
+.btn-login {display:none;}
+.myModal1 .modal-dialog{top: 10%;}
+.modal-body-title h4{margin: 15px 0;}
+.myModal1 .form-inline label {display:none;}
+.myModal1 .btn-primary {border-radius: 0;float: left;width: 100%;}
+.myModal1 .account-op p{font-size:14px;display: inline-block;}
+.myModal1 .account-op a{font-size:14px;}
+.myModal1 .account-op {width: 100%;float: left;padding: 10px 0 10px;text-align: center;}
+.myModal1 .form-contro, .myModal1 .form-control{text-align:center;}
+.myModal1 .modal-header{display:none;}
+.myModal1 .modal-content{background-color:#fff;}
+.form-inline .form-check{margin:0px; padding:0px;}
+.myModal1 .form-inline .form-check a{width: 100%;text-align: center;float: left;font-size: 13px; margin-top:20px;}
+.myModal1 .modal-content{padding: 2px;}
+.myModal1 .form-inline .form-check {display: inline-block;width: 100%;}
+.form-check-label {display: block !important;line-height: normal;}
+.myModal1 .form-inline .form-check .form-check-label a {margin: 0;width: auto;float: initial;}
+.myModal1 .form-inline label {line-height: initial;}
+.myModal1 .form-inline .form-check{margin: 19px 0 0;}
+.myModal1 .form-inline {display: table;margin: auto;max-width: unset; width: 82%;}	
+.section-new .new-2 ul li {float: left;color: #ffffff;width:31%;text-align: center;}
+.section-new .new-2 ul li span{width: 70px;display: table;margin: auto;}
+.section-search .custom-select-sm{text-align:center; background:#333333; color: #fff;}
+.section-search .btn.btn-primary{display:none;}
+.section-search {width: 100%;padding: 0;position: absolute;left: 0;}
+.custom-select-box {width: 50%;margin: 0 0 10px;text-align: center;}
+.section-search .form-control {width: 50%;margin: 0 0 10px;text-align: center;padding: 0;line-height: 45px;height: 45px;background-color:#acacac;text-transform:uppercase;color:#fff;}
+.section-search .form-control::placeholder {color: #fff;opacity: 1;}
+.search-form{position:relative;}
+.search-box {float: right;margin-bottom: 10px;}
+.row{margin:0px;}
+.section-new .new-2 .owl-carousel .new-icon{display: inline-block; width: 100%;}	
+.payment-method.float-left{width:100%;}
+.payment-method.float-left img{margin:auto;}
+.section-new .new-2 a{text-transform:uppercase; padding: 20px 0 20px; font-size:12px;}
+.sign_up_copie{background-color:#707070; padding:15px 0; float:left; width:100%;}
+.sign_up_copie p{text-align:center; color:#ffffff;}
+.sign_up_copie .sign-up-slide {max-width: 200px;  margin: auto; display: table; float: none;font-size:17px; line-height: 38px;}
+.owl-carousel {display: none; position: relative; width: 100%; -ms-touch-action: pan-y; float: left; width: 100%; margin: 45px 0 0;}
+.slide-bar .carousel-item img{height: 220px; width:100%;}
+.myModal1 .form-inline.form-inline-1 label{display:none;}
+.logo-center{    position: relative;
+    width: auto;
+    float: none;}
+.dropdown-left-menu{display:none;}	
+
+
+
+.sidenav.sidenav-language li{text-align:center;}
+.sidenav.sidenav-language li a {
+    padding: 0px;
+    line-height: 0;
+}
+.sidenav.sidenav-language li.active a{color:#fff;}
+.sidenav.sidenav-language li.active{background-color:#cca339;}
+.sidenav.sidenav-language li:hover{background-color:#cca339;}
+.sidenav.sidenav-language li:hover a{color:#fff;}
+.sidenav.sidenav-language li {
+    text-align: center;
+    line-height: 0;
+    padding: 22px 0;
+    font-size: 18px;
+    color: #fff;
+}
+}
+@media screen and (min-width:768px)
+{
+.navbar-toggler{display:none;}
+.menuclose{display:none;}
+}
+@media screen and (max-width:700px)
+{
+.carousel-caption .slider-text {max-width: 200px; padding: 5px;}
+.carousel-caption .slider-text h1 {font-size: 44px;}
+.carousel-caption .slider-text h1 span{font-size: 18px;line-height: 19px;}
+.carousel-caption .slider-text h3 {font-size: 33px;}
+.carousel-caption .slider-text h2 {font-size: 43px;}	
+.carousel-caption .slider-text p{font-size: 13px;}
+
+.games-text h4{font-size: 12px; min-height: auto; margin-bottom: 15px;}	
+.play-button {max-width: 100px;font-size: 15px;line-height: 28px;}
+.games-text span{width: 17px;}	
+}
+@media screen and (max-width:570px)
+{
+.section-footer-menu ul li a {padding: 0 0;font-size: 8px;color: #cca339;line-height: 0;}
+.games-box {width: 50%;float: left;margin-bottom: 5px; padding: 0 5px 0 0;}
+.home-ds-icon{right: 0;}
+		
+}
